@@ -90,6 +90,8 @@ scale = Vector2(0.496094, 0.496094)
 sprite_frames = SubResource("SpriteFrames_u4ei4")
 animation = &"Shoot"
 autoplay = "Idle"
+frame = 3
+frame_progress = 1.0
 
 [node name="Crosshair" type="ColorRect" parent="CanvasLayer"]
 anchors_preset = 8
